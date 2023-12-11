@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithilesh-patel&label=Profile%20views&color=0e75b6&style=flat" alt="mithilesh-patel" /> </p>
 
-- 🔭 I’m currently working on **React Stack Overflow clone**
 
 - 🌱 I’m currently learning **React**
 
