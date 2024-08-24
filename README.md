@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithilesh-patel&label=Profile%20views&color=0e75b6&style=flat" alt="mithilesh-patel" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular and Spring Boot**
 
 - 📫 How to reach me **mithileshpatel250@gmail.com**
 
